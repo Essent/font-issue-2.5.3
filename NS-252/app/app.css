@@ -15,3 +15,8 @@ Page {
 	font-family: OpenSans-Regular, Open Sans;
 	color: #231f1f;
 }
+
+.btn {
+    font-family: OpenSans-Extrabold, Open Sans;
+	font-size: 16;
+}
